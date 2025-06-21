@@ -6,6 +6,8 @@ main:
     url: /publications/
   - title: "CV"
     url: "/assets/pdf/Suliah_Victor_Bamomwo_CV.pdf"
+  - title: "Blog"
+    url: /blog/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
