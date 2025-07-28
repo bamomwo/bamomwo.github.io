@@ -1,9 +1,9 @@
 ---
-title: "Genuine Thoughs on Superintelligence"
+title: "Breaking into AI Research"
 date: 2024-06-10
 categories: [blog]
 classes: homepage-font-small
-tags: [Artificial Intelligence, Superintelligence, Reasoning models?]
+tags: [Artificial Intelligence, Research]
 ---
 
 As a graduate student who has just entered the field of Artificial Intelligence, I am eager to contribute to the pursuit of superintelligence. It has been quite an intriguing journey so far. Initially, it involved a lot of learning, including taking Andrew Ng courses, watching Stanford Machine Learning courses on YouTube, reading blog posts, and following the most popular AI researchers on X (where I get updates on what's happening in the AI world). With a strong background in mathematics and coding, it was easy to start actively learning about AI, although I sometimes had to revisit MIT math courses on YouTube for refreshers. After a while (about a year), I became quite conversant with concepts like backpropagation, loss functions, optimisation, normalisation, etc. I literally would walk through backpropagation with a pen and paper, just to make sure I understood these concepts. 
