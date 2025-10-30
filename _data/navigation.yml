@@ -2,9 +2,9 @@
 main:
   - title: "Home"
     url: /
-  - title: "Publications"
-    url: /publications/
+  - title: "Projects"
+    url: /projects/
   - title: "CV"
-    url: "/assets/pdf/Suliah-Victor-Bamomwo-CV.pdf"
-  - title: "Blog"
-    url: /blog/
+    url: "/assets/pdf/CV.pdf"
+  # - title: "Blog"
+  #   url: /blog/
