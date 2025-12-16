@@ -10,4 +10,8 @@ I am a research student at the University of Electronic Science and Technology o
 
 Beyond my current focus on applied AI/ML in healthcare, I also deeply research the "holy grail" of AI, which is creating self-improving intelligent systems. In this area, I am curious about the role of Reinforcement Learning and Natural Language processing in self-improving intelligent systems. Some of the important questions I investigate are "Can next token prediction truly create intelligent systems?", "How far do LLMs generalize, and is that enough to create self-improving intelligent systems?
 
-Aside from research, I like to read history and politics. Feel free to reach out to me for research or casual discussions. s
+Aside from research, I like to read history and politics. Feel free to reach out to me for research or casual discussions.
+
+## News
+
+- New Project: Optimizing branching for complex project scheduling problems (RCPSP) using Reinfrocement Learning. [Check our work here](https://github.com/bamomwo/RCPSP-BnB-RL)
