@@ -14,4 +14,4 @@ Aside from research, I like to read history and politics. Feel free to reach out
 
 ## News
 
-- New Project: Optimizing branching for complex project scheduling problems (RCPSP) using Reinfrocement Learning. [Check our work here](https://github.com/bamomwo/RCPSP-BnB-RL)
+- New Project: Optimizing branching for complex scheduling problems (RCPSP) in Branch-and-Bound using Reinfrocement Learning. [Check our work here](https://github.com/bamomwo/RCPSP-BnB-RL)
